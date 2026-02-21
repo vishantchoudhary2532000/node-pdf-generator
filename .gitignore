@@ -1,0 +1,40 @@
+# Compiled output
+/dist
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/logs
+
+# Runtime data
+pid
+*.pid
+*.seed
+*.pid.lock
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.test
+.env.production
+.env.local
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+*.pdf
+/coverage
+.nestjs-pdf-service
+.puppeteer-pdf-generator
+.invoice-generator
+.scaled-pdf-service
+.node-pdf-generator

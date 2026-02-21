@@ -2,6 +2,14 @@
 
 An enterprise-grade, high-performance NestJS service to generate branded, multi-page PDFs using Puppeteer.
 
+## Previews 📸
+
+![PDF Receipt Preview](./screenshots/pdf_receipt_preview.png)
+*Professional Branded PDF with QR Code and Watermark*
+
+![Postman Collection](./screenshots/postman_api_preview.png)
+*Included Postman Collection for easy testing*
+
 ## Key Features
 
 - **Singleton Browser Pooling**: Efficiently reuses Chromium instances using incognito contexts to minimize memory overhead.
